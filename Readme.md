@@ -1,6 +1,11 @@
 # Ajax_com_FastAPI
 
-![preview](./.github/preview.png)
+
+Site com objetivo de apenas cadastrar usuário no banco de dados
+
+___
+
+![preview](./.github/Preview.png)
 
 
 ___
