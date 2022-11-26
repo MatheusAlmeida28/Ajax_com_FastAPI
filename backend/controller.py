@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
-from models import Base, Pessoa, Tokens
+from models import Pessoa
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 from hashlib import sha256
