@@ -54,7 +54,7 @@ def cadastro(user: str, email: str, senha: str):
         session.commit()
         return 'Usuário cadastrado com sucesso!'
     except Exception as e:
-        return {'erro': 3, 'erro': e}
+        return {'erro': e}
 
 if __name__ == "__main__":
     uvicorn.run('controller:app', port=5000, reload=True, access_log=False)
