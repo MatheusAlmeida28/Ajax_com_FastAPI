@@ -1,6 +1,6 @@
 # Ajax_com_FastAPI
 
-![preview](./.github/preview.png)
+![preview](./.github/Preview.png)
 
 
 ___
