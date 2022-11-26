@@ -1,9 +1,10 @@
 # Ajax_com_FastAPI
 
-![preview](./.github/preview.png)
-
-
+Site apenas com o objetivo de cadastrar usuários no banco de dados
 ___
+
+
+![preview](./.github/preview.png)
 
 
 ## Tecnologias 🖥️
@@ -12,6 +13,7 @@ ___
 - Bootstrap
 - FastAPI
 - Ajax
+- SQLite
 - Git e Github
 
 ___
